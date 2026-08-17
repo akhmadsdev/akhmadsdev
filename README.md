@@ -104,9 +104,9 @@ Currently exploring and building in these areas:
 
 <div align="center">
 
-<a href="https://www.instagram.com/akhmadsdev"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%2364748b" width="22" height="22" alt="Instagram">&nbsp;&nbsp;Instagram</a>
+<a href="https://www.instagram.com/akhmads.dev"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%2364748b" width="22" height="22" alt="Instagram">&nbsp;&nbsp;Instagram</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.threads.net/@akhmadsdev"><img src="https://api.iconify.design/simple-icons/threads.svg?color=%2364748b" width="22" height="22" alt="Threads">&nbsp;&nbsp;Threads</a>
+<a href="https://www.threads.net/@akhmads.dev"><img src="https://api.iconify.design/simple-icons/threads.svg?color=%2364748b" width="22" height="22" alt="Threads">&nbsp;&nbsp;Threads</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://akhmads.my.id"><img src="https://api.iconify.design/mdi/earth.svg?color=%2364748b" width="22" height="22" alt="Portfolio">&nbsp;&nbsp;Portfolio</a>
 
