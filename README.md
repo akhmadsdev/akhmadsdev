@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, Im Akhmad Suhaimi 👋
+# Hey, I'm Akhmad Suhaimi 👋
 
 **Full-Stack Developer | Software Engineer**
 
