@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Akhmad Suhaimi 👋
 
-<!--
-**akhmadsdev/akhmadsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I build web and mobile applications with a focus on
+practical solutions, clean architecture, and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+- Web Application Development
+- Mobile Application Development
+- Backend & API Development
+- Database Design
+- System Development & Maintenance
+
+### 🛠 Tech Stack
+
+**Languages**
+PHP · JavaScript · Dart · SQL
+
+**Frameworks**
+Laravel · CodeIgniter · Next.js · Flutter
+
+**Tools**
+Git · Docker · MySQL · Linux
+
+---
+
+### 📌 Featured Projects
+
+- **K-Sir** — Cashier & business management application for MSMEs
+- **LaundryCepat** — Offline laundry POS application
+- **AgendaPro** — Photography scheduling & management system
+
+---
+
+### 📫 Let's Connect
+
+[LinkedIn](YOUR_LINK) · [Threads](YOUR_LINK) · [Portfolio](YOUR_LINK)
