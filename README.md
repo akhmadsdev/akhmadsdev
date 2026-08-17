@@ -1,10 +1,10 @@
 <div align="center">
 
-# Akhmad Suhaimi
+# Hi, Im Akhmad Suhaimi 👋
 
-**Full-Stack Developer · Software Engineer**
+**Full-Stack Developer | Software Engineer**
 
-*Building practical software for real-world problems.*
+_Building practical software for real-world problems._
 
 </div>
 
@@ -26,7 +26,7 @@ A digital marketplace focused on software products, digital tools, and technolog
 
 It also represents a broader initiative around technology, software development, and digital solutions.
 
-`E-Commerce` · `Digital Products` · `Web Platform`
+`E-Commerce` | `Digital Products` | `Web Platform`
 
 ---
 
@@ -36,7 +36,7 @@ Developed and contributed to digital systems for government institutions, buildi
 
 Projects include applications related to data management, public services, organizational workflows, risk management, government administration, and operational systems.
 
-`Public Services` · `Data Management` · `Government Systems`
+`Public Services` | `Data Management` | `Government Systems`
 
 ---
 
@@ -46,7 +46,7 @@ A management system designed for automotive workshops, built to solve real opera
 
 It helps manage customers, vehicles, service transactions, spare parts, mechanics, workshop operations, service history, and business management.
 
-`Business Operations` · `Management System` · `Web Application`
+`Business Operations` | `Management System` | `Web Application`
 
 ## Tech Stack
 
